@@ -1,4 +1,9 @@
-<h1 align="center">☄️ transition-hook</h1>
+<p align="center">
+  <img src="logo.png" alt="logo" width="550px" />
+</p>
+
+<br />
+<h1 align="center">📦 qhlab-library-template</h1>
 
 <p align="center">
   <a href="https://github.com/iamyoki/transition-hook/actions/workflows/test.yml"><img src="https://github.com/iamyoki/transition-hook/actions/workflows/test.yml/badge.svg" alt="🧪 Run Tests"></a>
@@ -13,15 +18,7 @@
 
 <p align="center">An extremely light-weight<strong>(1kb)</strong> react transition animation hook which is simpler and easier to use than <a href="https://github.com/reactjs/react-transition-group" target="_blank">react-transition-group</a></p>
 <br>
-
-<p align="center">
-  <a href="https://tqgdj.csb.app/">
-    <img src="./example.gif" width="300" alt="example">
-  </a>
-  <br>
-  <a href="https://tqgdj.csb.app/">See Example</a> |
-  <a href="https://codesandbox.io/s/transition-hook-example-tqgdj">See Example in Codesandbox</a>
-</p>
+<p align="center">!!!(This template is forked from transition-hook, edit your own content later on)</p>
 
 <p align="center">
   <a href="https://o3f41.csb.app/ripple-effect">
